@@ -6,6 +6,6 @@ add osmbuild layer on the WorldWind
 
 add esri map layer on the WorldWind
 
-![Alt text](https://github.com/bdilab/WorldWind_3D_urban/blob/master/img/img1.PNG "Screenshot 1")
+![Alt text](https://github.com/chunyuyuan/WorldWind_3D_urban/blob/main/img/img1.PNG "Screenshot 1")
 
-![Alt text](https://github.com/bdilab/WorldWind_3D_urban/blob/master/img/img2.PNG "Screenshot 2")
+![Alt text](https://github.com/chunyuyuan/WorldWind_3D_urban/blob/main/img/img2.PNG "Screenshot 2")
